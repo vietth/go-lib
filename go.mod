@@ -1,4 +1,4 @@
-module github.com/vietth/go-lib/lib
+module github.com/vietth/go-lib
 
 go 1.16
 

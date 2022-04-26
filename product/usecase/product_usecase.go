@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/vietth/go-lib/lib/domain"
+	"github.com/vietth/go-lib/domain"
 )
 
 type productUsecase struct {
