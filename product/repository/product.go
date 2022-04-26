@@ -2,7 +2,7 @@ package repository
 
 import (
 	"gorm.io/gorm"
-	"github.com/vietth/go-lib/domain"
+	"github.com/vietth/go-lib/lib/domain"
 )
 
 type productRepository struct {

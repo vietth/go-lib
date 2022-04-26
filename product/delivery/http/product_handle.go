@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"strconv"
-	"github.com/vietth/go-lib/domain"
+	"github.com/vietth/go-lib/lib/domain"
 )
 
 type ProductHandle struct {
